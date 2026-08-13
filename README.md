@@ -20,35 +20,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
-- **[Svix](https://www.svix.com/)**  
-  Enterprise-ready webhooks-as-a-service platform focused on outbound delivery, with embeddable customer portals, retries, transformations, FIFO, throttling, and high reliability.
 
-- **[Hookdeck](https://hookdeck.com/)**  
-  Event gateway specializing in inbound webhook reliability (Event Gateway) and outbound destinations (Outpost), with queuing, transformations, replay, and observability.
-
-- **[Convoy](https://getconvoy.io/)**  
-  Source-available webhook delivery server supporting both inbound and outbound events, retries, circuit breaking, and customer dashboards.
-
-- **[Integrate.io Webhooks](https://www.integrate.io/)**  
-  Webhook and data integration capabilities within the Integrate.io platform for reliable event handling and pipeline orchestration.
-
-- **[Pipedream](https://pipedream.com/)**  
-  Workflow automation and event-driven platform that includes robust webhook ingestion, processing, and delivery features.
-
-- **[Trigger.dev](https://trigger.dev/)**  
-  Open-source background jobs and workflow platform (with managed offering) well-suited for long-running event-driven and webhook-triggered tasks.
-
-- **[Webhook Relay](https://webhookrelay.com/)**  
-  Developer-focused webhook forwarding, tunneling, and proxying tool for local development and reliable delivery.
-
-- **[Latenode](https://latenode.com/)**  
-  Low-code / no-code automation platform with strong webhook support for connecting services and building event-driven flows.
-
-- **[Webhook.site Enterprise](https://webhook.site/)**  
-  Advanced version of the popular webhook testing and inspection tool, offering enterprise features for teams.
-
-- **[Hook0](https://www.hook0.com/)**  
-  Open-source (SSPL) and managed webhook platform focused on outbound delivery, with full feature parity between cloud and self-hosted editions.
+| Product | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[Svix](https://www.svix.com/)** | Enterprise-ready webhooks-as-a-service platform focused on outbound delivery, with embeddable customer portals, retries, transformations, FIFO, throttling, and high reliability. | $490/month | 50,000 messages/month |
+| **[Hookdeck](https://hookdeck.com/)** | Event gateway specializing in inbound webhook reliability (Event Gateway) and outbound destinations (Outpost), with queuing, transformations, replay, and observability. | $39/month | 10,000 events/month |
+| **[Convoy](https://getconvoy.io/)** | Source-available webhook delivery server supporting both inbound and outbound events, retries, circuit breaking, and customer dashboards. | $99/month | 14-day free trial |
+| **[Integrate.io Webhooks](https://www.integrate.io/)** | Webhook and data integration capabilities within the Integrate.io platform for reliable event handling and pipeline orchestration. | $1,999/month | 14-day free trial |
+| **[Pipedream](https://pipedream.com/)** | Workflow automation and event-driven platform that includes robust webhook ingestion, processing, and delivery features. | $29/month | 100 credits/month |
+| **[Trigger.dev](https://trigger.dev/)** | Open-source background jobs and workflow platform (with managed offering) well-suited for long-running event-driven and webhook-triggered tasks. | $10/month | $5 monthly credits |
+| **[Webhook Relay](https://webhookrelay.com/)** | Developer-focused webhook forwarding, tunneling, and proxying tool for local development and reliable delivery. | $4.90/month | 25,000 events/month |
+| **[Latenode](https://latenode.com/)** | Low-code / no-code automation platform with strong webhook support for connecting services and building event-driven flows. | $5/month | 10,000 CPU seconds/month |
+| **[Webhook.site Enterprise](https://webhook.site/)** | Advanced version of the popular webhook testing and inspection tool, offering enterprise features for teams. | $69/month | 50 requests/URL (Expires in 7 days) |
+| **[Hook0](https://www.hook0.com/)** | Open-source (SSPL) and managed webhook platform focused on outbound delivery, with full feature parity between cloud and self-hosted editions. | €59/month | 100 events/day |
 
 ## Open-Source GitHub Projects
 - **[Svix (Open Source Server)](https://github.com/svix/svix-webhooks)**  
